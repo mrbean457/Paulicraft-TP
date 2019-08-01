@@ -39,7 +39,7 @@ ________________________________________________________________________________
 | Glitzernde Melonenscheibe |			    | Glitzerndes Bilou Melone		|
 | Roter Pilz		    |			    | Ketchup				|
 | Brauner Pilz		    |			    | Spätzle				|
-| Pilzsuppe		    |			    | Spätzle mit Ketchup		|
+| Pilzsuppe		    |			    | Spätzle mit Ketchup (nur Name)	|
 | Tropenfisch		    |			    | Sushi				|
 | Roher Kabeljau	    |			    | Roher Redfisch			|
 | Gebratener Kabeljau	    |			    | Fischstäbchen			|
@@ -51,6 +51,6 @@ ________________________________________________________________________________
 | Verrottetes Fleisch	    |			    | BiFi				|
 | Ofenkartoffel		    |			    | Pommes de Fritz			|
 | Kuchen		    |			    | Pauli Kuchen			|
-| Kugelfisch		    |			    | Pizza Nudel Pfanne		|
+| Kugelfisch		    |			    | Pizza Nudel Pfanne (nur Name)	|
 | Werkbank		    |			    | Merkelbank			|
 _________________________________________________________________________________________
