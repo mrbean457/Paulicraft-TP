@@ -1,0 +1,55 @@
+Changelog Paulicraft TP
+
+- GUIs aktualisert (Java Edition Logo gefixt (war vorher abgeschnitten)
+- GUI für Realms hinzugefügt (Logo auf Realms Seite)
+- Buttons für Sprache und Barrierefreiheit, im Stil der Paulicraft Menü Buttons angelegt
+- Übersetzungen hinzugefügt für Menüs (z.B. 'Spiel ragequitten', 'Spr4ch3' (im Hauptmenü); 'Neu integrieren' 'Ragequit', 'Du wurdest exekutiert', 'Dioptrienpunkte' (im Todesbildschirm); 'HandMerk' (im Inventar); usw)
+- GUIs für Schmelz- und Räucherofen hinzugefügt (basierend auf der Ofen GUI)
+- Villager Model (nur vorübergehend, bis PureBDCraft 512x, ein Modell hat) und GUI (komplett neu, aber an alter GUI orientiert) aktualisiert
+- Zombie Villager Model erstellt mit Postboten Gesicht
+
+Items und Blöcke (mit neuen Namen)
+_________________________________________________________________________________________
+| Original Item				| Altes Paulicraft Item	| Neues Paulicraft Item				|
+|___________________________|_______________________|___________________________________|
+| Keks						| Dorito				| Fleischkäsebrötchen				|
+| Kürbiskernkuchen			| 						| Pizza								|
+| Brot						| Dorito Packung		| Knuspertoast						|
+| Weizen					|						| Weed								|
+| Weizenkörner				|						| Weedkörner						|
+| Gras						|						| Weedpflanze						|
+| Pfeil						| Baguette Pfeil		| Pfeil 							|
+| Goldener Apfel			| Gelber Apple			| Goldener Apple mit grünem Blatt	|
+| Verz. Goldener Apfel		| Gelber Apple			| Goldener Apple mit grünem Blatt	|
+| Alle Gold Items (Name)	|						| 'Gold' durch 'Pokal' ersetzt		|
+| Feuerzeug					|						| Firefoxzeug						|
+| Feuerkugel				|						| Firefoxkugel						|
+| Alle Wassereimer			|						| Waterfoxeimer						|
+| Milcheimer				|						| Gifteimer							|
+| Schneeball				| Mac OS X Ball			| Windows 7 DVD						|
+| Ei						| 						| HP Ei								|
+| Stock						| 						| Brotstange						|
+| Rote Bete		 			|						| Dorito							|
+| Rote Bete Suppe 			|						| Schüssel mit Doritos				|
+| Karotte					| 						| Schupfnudel						|
+| Goldene Karotte			| 						| Pokal Schupfnudel					|
+| Karotterute				| 						| Gril Angel						|
+| Melonenscheibe			|						| Bilou Melone						|
+| Glitzernde Melonenscheibe	|						| Glitzerndes Bilou Melone			|
+| Roter Pilz				|						| Ketchup							|
+| Brauner Pilz				|						| Spätzle							|
+| Pilzsuppe					|						| Spätzle mit Ketchup				|
+| Tropenfisch				|						| Sushi								|
+| Roher Kabeljau			|						| Roher Redfisch					|
+| Gebratener Kabeljau		|						| Fischstäbchen						|
+| Gebratener Lachs			|						| Seelachsfilet						|
+| Gebratenes Hühnchen		|						| Kentucky Bucket					|
+| Gebratenes Schweinefleisch|						| Cordon Bleu						|
+| Gebratenes Rindfleisch	|						| Hamburger							|
+| Getrockneter Seetang		|						| Veganer Döner						|
+| Verrottetes Fleisch		|						| BiFi								|
+| Ofenkartoffel				|						| Pommes de Fritz					|
+| Kuchen					|						| Pauli Kuchen						|
+| Kugelfisch				|						| Pizza Nudel Pfanne				|
+| Werkbank|					|						| Merkelbank						|
+_________________________________________________________________________________________
