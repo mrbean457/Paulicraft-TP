@@ -1,0 +1,7 @@
+Changelog Paulicraft
+- GUIs aktualisert
+- Villager aktualisiert
+
+Items und Blöcke
+Keks > Fleischkäsebrötchen
+Kürbiskernkuchen > Pizza
